@@ -13,7 +13,7 @@ The Design Elements for 3D Printed Parts section covers common design elements u
 
 The 3D Printing Design Tips section of the guide links to other 3D printing design guides that cover wall thicknesses, overhangs, optimizing for print speed and material usage, and filet sizes while breaking out the section on printing overhanging holes from the Hydra Research design guide for easy reference. It also gives a brief overview of the printers used in the design of the devices mentioned in the guide, and how that affected the tolerances used in the guide. Finally, it covers how these tolerances can be changed for other 3D printers to make them fit better.
 
-Finally, there is a How to Contribute section that covers how to make changes to the guide or add new sections. This is a living document and intended to be changed and updated as better measurements and new design techniques are used, both by the Makers Making Change team and community.
+Finally, there is a How to Contribute section that covers how to make changes to the guide or add new sections. This guide is a living document and intended to be changed and updated as better measurements and new design techniques are used, both by the Makers Making Change team and community.
 
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
