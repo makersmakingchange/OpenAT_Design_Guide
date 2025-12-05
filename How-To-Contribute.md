@@ -5,7 +5,7 @@ nav_order: 2
 parent: Home
 ---
 
-
+This section includes instructions for making a correction or an improvement to an existing page, as well as instructions on how to add a new page to add something new to the guide.
 
 # Making a Correction
 
