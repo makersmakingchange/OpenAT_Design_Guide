@@ -44,3 +44,9 @@ When designing the nut retainer, there are several other considerations that aff
 | :--------------------- | -----: | 
 | Digikey     | [M3 Nut DigiKey Link](https://www.digikey.ca/en/products/detail/keystone-electronics/4708/4499301)|
 | Mouser | [M3 Nut Mouser Link](https://www.mouser.ca/ProductDetail/Keystone-Electronics/4708?qs=wOxb8XianXjGbgegRl0S9Q%3D%3D) |
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

@@ -16,3 +16,9 @@ The primary considerations when creating the button pusher is print orientation 
 <img src="Photos/Lever_Arm/Lever_Arm_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="the forest hub enclosure in the bambu slicer, showing print orientation . ">
 
 The lever section of the arm needs to be long enough to deflect and bend without requiring significantly more force to operate than the button. The lever arm is generally between 2.4 to 6 mm wide, and at least 6 mm long. The end of the lever should have a cone, post, or other protrusion that rests within a millimeter or two of the button on the PCB so that the button is pressed almost immediately after pressing the lever arm.
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

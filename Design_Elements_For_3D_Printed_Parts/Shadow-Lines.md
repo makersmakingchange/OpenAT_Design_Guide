@@ -20,3 +20,9 @@ To do so, create a sketch on the top surface of the bottom enclosure. Offset the
 <img src="Photos/Shadow_Line/Shadow_Line_IMG4.png" height="250"  alt="Extruding the base of the shadow line">
 <img src="Photos/Shadow_Line/Shadow_Line_IMG5.png" height="250"  alt="Adding a chamfer to the base of the shadow line">
 <img src="Photos/Shadow_Line/Shadow_Line_IMG6.png" height="250"  alt="Extruding the upper lip of the shadow line">
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

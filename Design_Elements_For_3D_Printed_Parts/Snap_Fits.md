@@ -42,4 +42,9 @@ To make a snap fit that can be pulled apart more easily, the tab can have an ang
 
 * **Tab Length and Width:** The length and width of the tabs will impact the strength, durability, and flexibility of the tabs. Shorter, wider tabs will be stronger and harder to bend, while longer, thinner tabs will be easier to flex and weaker. You may need to test different combinations of tab length and width to get the right balance of stiffness, strength, and durability for your joint.
 
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)
 

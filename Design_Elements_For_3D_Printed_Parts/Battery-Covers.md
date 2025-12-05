@@ -16,3 +16,9 @@ The battery is inserted into the battery cover and held in place by friction and
 The primary goals of the battery cover were to secure the battery, and keep it easily accessible for the user when it needs to be swapped. Currently, the cover is printed without supports, and the width of the battery cover at the top is starting to sag and deform when bridging. It is possible to reduce the number of fasteners used by printing it on its side and redesign it to have a snap fit fastener as found on the battery enclosure of a television remote. In the current orientation, the layer lines would be more likely to snap, whereas if it was printed on its side the layer lines would be in a stronger orientation.
 
 For detailed measurements, refer to the CAD design files for the Open Playback Recorder, found [here](https://github.com/makersmakingchange/Open-Playback-Recorder/tree/main/Design_Files/CAD_Design_Files).
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

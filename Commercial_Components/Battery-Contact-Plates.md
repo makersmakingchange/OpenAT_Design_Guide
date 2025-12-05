@@ -146,3 +146,9 @@ For the switch plates to work, they need to be positioned and spaced correctly. 
 | Solid Contact Plate Mouser | [Solid Contact Plate Mouser Link](https://www.mouser.ca/ProductDetail/Keystone-Electronics/5223?qs=%252BS1bAMbChF%252B3alBpHEy8CA%3D%3D) |
 | Contact Bridge Plate Digikey     | [Contact Bridge Plate Digikey Link](https://www.digikey.ca/en/products/detail/keystone-electronics/5213/316372)|
 | Contact Bridge Plate Mouser | [Contact Bridge Plate Mouser Link](https://www.mouser.ca/ProductDetail/Keystone-Electronics/5213?qs=U32tdPngY%2FwokHP6mbqrbQ%3D%3D) |
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

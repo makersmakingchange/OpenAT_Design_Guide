@@ -35,3 +35,9 @@ For this part, there are several primary dimensions used to create a well-fittin
 | :--------------------- | -----: | 
 | Digikey     | [Snap Switch DigiKey Link](https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/SS-3GP/664724) |
 | Mouser |  [Snap Switch Mouser Link](https://www.mouser.ca/ProductDetail/Omron-Electronics/SS-3GPB?qs=Rh%252BaoYk36r7SbQm8UayvHw%3D%3D)  |
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

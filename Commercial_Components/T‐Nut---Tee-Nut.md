@@ -70,3 +70,9 @@ When designing parts that use this component, you need to keep in mind the follo
  | **T-Nuts can be found at these links:** |        |
 | :--------------------- | -----: | 
 | Amazon     | [Part Amazon Link](https://www.amazon.ca/dp/B01MSVU3WF?ref=fed_asin_title&th=1)|
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

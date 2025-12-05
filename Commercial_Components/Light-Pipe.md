@@ -37,3 +37,9 @@ When designing parts that use this component, you need to keep in mind the follo
 | :--------------------- | -----: | 
 | Digikey     | [Light Pipe DigiKey Link](https://www.digikey.ca/en/products/detail/dialight/51513030250F/4965201) |
 | Mouser | [Light Pipe Mouser Link](https://www.mouser.ca/ProductDetail/Dialight/515-1303-0250F?qs=rkevp0fsrts4dv75K85%2FWA%3D%3D)  |
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

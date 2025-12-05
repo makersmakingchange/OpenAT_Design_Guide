@@ -21,3 +21,9 @@ Ribs can be easily added to the sketch used to create the post, using two center
 <img src="Photos/Screw_Post/Screw_Post_IMG5.png" height="200"  alt="Chamfering the ribs">
 
 After creating the ribs, a fillet can be used along the base of the post and ribs to reduce the stress concentration further, usually a 0.8-1.6 mm fillet.
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

@@ -33,3 +33,9 @@ The primary consideration for a snap fit is the length of the deflecting arm, an
 - **Arm Angle:** The angle of the surface that the PCB or other piece pushes against while it is being inserted in the snap fit. 70 degrees is a good minimum angle for this, although others have been used.
 
 <img src="Photos/Captured_PCB/Captured_PCB_IMG5.png" width="200" style="display: block; margin: 0 auto" alt="A sketch of a snap fit arm with the key dimensions labeled. ">
+
+---
+
+Copyright (c) 2025 Neil Squire / Makers Making Change.
+
+This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)
