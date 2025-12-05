@@ -7,15 +7,15 @@ parent: Design Elements for 3D Printed Parts
 
 # Non-Slip Base
 
-Some of the OpenAT joysticks, such as the Willow, come with a non-slip base that helps them stay in one place while being used on a table or other flat surface. This base uses the mounting standard used in the camera mount adapter and the Ram-B ball adapter to stay in place, and several non-slip feet to prevent it from moving around on the surface.
+Some of the OpenAT Joysticks, such as the Willow, come with a non-slip base that helps them stay in one place while being used on a table or other flat surface. This base uses the mounting standard used in the camera mount adapter and the Ram-B ball adapter to stay in place, and several non-slip feet to prevent it from moving around on the surface.
 
-<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A photo of the Willow joystick with the non slip pase. ">
-<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="The non slip base of the willow joystick. ">
+<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A photo of the Willow Joystick with the non slip pase. ">
+<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="The non slip base of the Willow Joystick. ">
 
 To create a non-slip base, create a sketch on the bottommost surface of the device, and project the walls of the device down. Create a clearance offset of 0.1 mm, and a second offset 1.6 mm beyond that. Extrude this ring up, the distance will vary depending on how much of a chamfer there is on the base of the device.
 
-<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG3.png" width="300" style="display: block; margin: 0 auto" alt="The base of the oak joystick, with a sketch offsetting the perimeter . ">
-<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG4.png" width="300" style="display: block; margin: 0 auto" alt="The oak joystick with the perimeter being extruded up. ">
+<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG3.png" width="300" style="display: block; margin: 0 auto" alt="The base of the Oak Joystick, with a sketch offsetting the perimeter . ">
+<img src="Photos/Non_Slip_Base/Non_Slip_Base_IMG4.png" width="300" style="display: block; margin: 0 auto" alt="The Oak Joystick with the perimeter being extruded up. ">
 
 Next, extrude the base down by 2.4 mm, leaving the mounting holes uncovered. Chamfer the interior corner of the base as needed to match the chamfer on the bottom of the device, and chamfer the bottom of the non-slip foot, generally 1.6 mm but this can be changed to keep the thickness more consistent if the chamfer on the bottom of the device is significantly larger or smaller than that.
 

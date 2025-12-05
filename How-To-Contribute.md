@@ -11,7 +11,7 @@ This section includes instructions for making a correction or an improvement to 
 
 This design guide is a living document, and can always be improved. If after testing a dimension or step in this guide, you find a better dimension or set of steps for a page in the guide, you can raise a github issue to change the dimension in the guide.
 
-To do so, click [this link](https://github.com/makersmakingchange/OpenAT_Design_Guide/issues). From here, click on the green 'New issue' button at the top right. Give the issue a title that explains what feature in what part need to be changed (i.e. "Changing threaded hole diameter for #4 sheet metal screw") then fill out the issue description with more information about what you want to change, and why you think it needs changing.
+To do so, click [this link](https://github.com/makersmakingchange/OpenAT_Design_Guide/issues). From here, click on the green 'New Issue' button at the top right. Give the issue a title that explains what feature in what part need to be changed (i.e. "Changing threaded hole diameter for #4 sheet metal screw") then fill out the issue description with more information about what you want to change, and why you think it needs changing.
 
 # Adding a new page
 

@@ -124,7 +124,7 @@ For the switch plates to work, they need to be positioned and spaced correctly. 
 - **Plate Height Spacing:** The distance between the center of the battery tube and the bottom of the plate retaining slot.
 - **Plate Width Spacing:** The distance between the centers of the two battery tubes.
 
-<img src="Photos/Battery_Contact_Plate/Battery_Contact_Plate_IMG17.png" width ="300" alt="A cross section of the Musical Grasping training aid with the plate width and the plate height labeled.">
+<img src="Photos/Battery_Contact_Plate/Battery_Contact_Plate_IMG17.png" width ="300" alt="A cross section of the Musical Grasping Training Aid with the plate width and the plate height labeled.">
 
 | Contact Plate Positioning Measurements |     |
 | :--------------------- | -----: | 

@@ -11,7 +11,7 @@ Cable ties are typically used for strain relief on cables entering an enclosure 
 
 <img src="Photos/Cable_Tie/Cable_Tie_Bundle.png" width="300" style="display: block; margin: 0 auto" alt="A bundle of cable ties. ">
 
-The cable ties used in most MMC projects require at least 3 mm of width, and 1 mm of thickness. When the cable tie runs along the exterior of the device, like the ones found at the bottom of the [Open Rocker Switch](https://github.com/makersmakingchange/Open-Rocker-Switch), be aware that it will not bend a perfect 90 degrees and will either need a radiused bend or a slightly deeper channel to allow it to lie flush with the exterior of the device. If it is in the interior bottom of the device, a fillet along the bottom makes it easier to insert the cable without it getting stuck, as seen in the [Spruce joystick](https://github.com/makersmakingchange/Spruce-Mini-Joystick)
+The cable ties used in most MMC projects require at least 3 mm of width, and 1 mm of thickness. When the cable tie runs along the exterior of the device, like the ones found at the bottom of the [Open Rocker Switch](https://github.com/makersmakingchange/Open-Rocker-Switch), be aware that it will not bend a perfect 90 degrees and will either need a radiused bend or a slightly deeper channel to allow it to lie flush with the exterior of the device. If it is in the interior bottom of the device, a fillet along the bottom makes it easier to insert the cable without it getting stuck, as seen in the [Spruce Joystick](https://github.com/makersmakingchange/Spruce-Mini-Joystick)
 
 ## Dimensions
 

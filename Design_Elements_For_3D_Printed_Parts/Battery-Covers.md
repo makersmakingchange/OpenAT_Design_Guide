@@ -7,7 +7,7 @@ parent: Design Elements for 3D Printed Parts
 
 # Battery Covers
 
-When using a 9V battery, it is important to have the battery accessible to the user, but still protected, secure, and out of the way. In the Open Playback recorder, this is done with a battery cover similar to what you would find in a television remote.
+When using a 9V battery, it is important to have the battery accessible to the user, but still protected, secure, and out of the way. In the Open Playback Recorder, this is done with a battery cover similar to what you would find in a television remote.
 
 <img src="Photos/Battery_Cover/Battery_Cover_IMG1.png" width="300"  alt="A battery cover holding a 9V battery. "><img src="Photos/Battery_Cover/Battery_Cover_IMG2.png" width="300" alt="The battery cover with a 9V battery installed into the open playback recorder. ">
 

@@ -7,7 +7,7 @@ parent: Commercial Components
 
 ## M3 Nut
 
-M3 nuts are used to add threads to a project, typically in a pair to allow for the attachment of a mounting adaptor like the RAM B adaptor or the ¼-20 Camera mount adaptor.
+M3 nuts are used to add threads to a project, typically in a pair to allow for the attachment of a mounting adaptor like the RAM B adaptor or the ¼-20 Camera Mount adaptor.
 
 <img src="Photos/M3_Nut/M3_Nut_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="a picture of an M3 nut">
 

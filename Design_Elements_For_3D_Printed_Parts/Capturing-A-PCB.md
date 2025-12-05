@@ -11,8 +11,8 @@ When attaching a PCB to a 3D printed enclosure, there are two general methods th
 
 ## Screws
 
-<img src="Photos/Captured_PCB/Captured_PCB_IMG1.png" width="400" style="display: block; margin: 0 auto" alt="A cross section of the lipsync hub showing the PCB screwed into place. ">
-<img src="Photos/Captured_PCB/Captured_PCB_IMG2.png" width="400" style="display: block; margin: 0 auto" alt="A cross section of the LipSync hub with a post supporting the arms of the PCB. ">
+<img src="Photos/Captured_PCB/Captured_PCB_IMG1.png" width="400" style="display: block; margin: 0 auto" alt="A cross section of the Lipsync Hub showing the PCB screwed into place. ">
+<img src="Photos/Captured_PCB/Captured_PCB_IMG2.png" width="400" style="display: block; margin: 0 auto" alt="A cross section of the LipSync Hub with a post supporting the arms of the PCB. ">
 
 When attaching a PCB using screws, one or more screws are used to attach the PCB to the enclosure. The design specifics for the screws can be found in the #4 Sheet Metal Screw entry in the commercial parts section, while the design specifics for the screw posts can be found in the Screw Posts entry in the 3D printed parts section.
 
