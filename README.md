@@ -1,11 +1,15 @@
 # Open Assistive Technology (OpenAT) Design Resources
 
-The OpenAT Design Guide is a collection of the CAD and 3D printing best practices used by the Makers Making Change team while designing OpenAT devices. The guide includes information on general 3D printing design tips, how to design around the common commercial components used by Makers Making Change, and how to design the common 3D printed features added to Makers Making Change devices.
+**OpenAT (Open-Source Assistive Technology)** refers to assistive devices whose designs are publicly shared, allowing anyone to study, modify, make, and improve them. OpenAT projects are typically co-created by people with disabilities, engineers, makers, and disability professionals. Because the designs are open, these technologies can be adapted to individual needs, built at lower cost, and improved by a global community, increasing accessibility for everyone.
+
+The **OpenAT Design Guide** is intended to be an ever-growing collection of resources and best practises for designing OpenAT that is easy to build, adapt, use, and improve upon. The guide includes information on Design for 3D Printing, as well as details on many of the design elements and common commercial components used by Makers Making Change.
 
 This guide is a living document, and is intended to be changed and updates as better measurements and methods are discovered. If you have an improvement or a section that should be added, you are welcome to contribute to the guide.
 
-## How to improve this Design Guide
-As open source documentation, you are welcomed and encouraged to improve upon the Design Guide. Information on how to contribute can be found [here](https://makersmakingchange.github.io/OpenAT_Design_Guide/How-To-Contribute.html) 
+The content is best viewed using the generated site: https://makersmakingchange.github.io/OpenAT_Design_Guide/
+
+## How to Contribute / Improve the Design Guide
+As open source documentation, you are welcome and encouraged to improve upon the Design Guide. Information on how to contribute can be found in the [How To Contribute](https://makersmakingchange.github.io/OpenAT_Design_Guide/How-To-Contribute.html) section. 
 
 ## Attribution
 
