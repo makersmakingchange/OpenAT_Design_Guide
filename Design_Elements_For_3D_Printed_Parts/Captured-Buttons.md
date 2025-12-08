@@ -38,9 +38,3 @@ The only device in the MMC library that currently uses this style of button is t
 The orientation of the button is also ensured by the horseshoe shaped ring. If the button is not in the correct orientation, the circuit board with the buttons soldered to it cannot be inserted into place, hitting the walls of the button instead of sliding into the channel. Finally, the button is octagonal since it has to pass through a horizontal hole in the wall of the enclosure. A round hole would have sagged slightly at the top due to the greater than 45 degree overhang, and required a looser tolerance on the button to compensate for. An octagonal hole and button allow for a tighter tolerance and a better fit between the button and the enclosure.
 
 <img src="Photos/Captured_Buttons/Captured_Buttons_IMG5.png" width="300" alt="The captured button in the open playback recorder with the lid off and button not fully constrained. "><img src="Photos/Captured_Buttons/Captured_Buttons_IMG6.png" width="300" alt="The captured button in the open playback recorder with the lid on and button fully captured. ">
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

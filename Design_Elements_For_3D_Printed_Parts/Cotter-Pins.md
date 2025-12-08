@@ -19,9 +19,3 @@ When designing a cotter pin, it is made with two primary sketches: the pin profi
 When designing the sweep profile, the end of the pin that does not pass through the holes in the part should be deflected by at least 45 degrees to prevent the wrong side from being inserted into the holes. The side of the pin that does not go through the holes should also have semicircular divots to allow the pin to return to its unstretched shape when it is in place.
 
 If any curves on the sweep profile are too sharp or too close together, the sweep will stop at that point. If that happens, adjust the profile until the sweep can move through the entire profile.
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

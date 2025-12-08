@@ -18,9 +18,3 @@ If using hot glue for strain relief, like in the Raindrop Switch, add a channel 
 <img src="Photos/Strain_Relief/Strain_Relief_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="The bottom of the Raindrop switch, showing the cavity that gets filled with hot glue. ">
 
 If using a cable tie for strain relief, refer to the cable tie entry in the commercial parts section for information about designing cable ties into devices.
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

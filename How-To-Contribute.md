@@ -26,9 +26,3 @@ The first 6 lines are the header, which gives the page its title, parent page, a
 Once you have created the page for your new entry, create a push request for the repository, and an MMC team member will review it and either add it to the guide, give feedback on what needs to be changed before adding it to the guide, or will not add it if the content is deemed inappropriate for the guide.
 
 If you are unable to create a local version of the GitHub repo to modify the template file yourself, you can download and modify the template file as explained in the above instruction, then submit it through GitHub issues like in the Making a Correction section.
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

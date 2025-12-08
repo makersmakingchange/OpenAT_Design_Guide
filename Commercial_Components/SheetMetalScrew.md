@@ -46,9 +46,3 @@ When designing parts that use this component, you need to keep in mind the follo
 | :--------------------- | -----: | 
 | Digikey     | [#4 Sheet Metal Screw DigiKey Link](https://www.digikey.ca/en/products/detail/serpac/6005/307599)|
 | Mouser | [#4 Sheet Metal Screw Mouser Link](https://www.mouser.ca/ProductDetail/SERPAC/6005?qs=f95KBKa1t%252BoPqs5qKc4pog%3D%3D) |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

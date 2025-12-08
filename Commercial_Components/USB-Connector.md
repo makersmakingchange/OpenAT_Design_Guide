@@ -53,9 +53,3 @@ A Micro USB is the connector found on some older microcontrollers.
 | Knock out (width x height) \[mm\] | 7 x 3.4 mm |
 | Wall to Connector \[mm\] | 1.6 mm |
 | Keep out (width x height)\[mm\] | 10 x 8 mm |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

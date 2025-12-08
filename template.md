@@ -41,9 +41,3 @@ When designing parts that use this component, you need to keep in mind the follo
 | Digikey     | [[Part name] DigiKey Link](link here)|
 | Mouser | [[Part name] Mouser Link](link here) |
 
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

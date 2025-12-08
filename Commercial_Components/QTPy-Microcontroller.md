@@ -30,9 +30,3 @@ Although it is most commonly attached to a PCB with headers, it is sometimes use
 | Board Thickness | 4 mm |
 | USB C Port Protrusion | 1.5 mm |
 | Base of Board to Center of USB Port | 2.9 mm |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

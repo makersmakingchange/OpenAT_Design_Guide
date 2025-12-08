@@ -39,9 +39,3 @@ When designing parts that use this component, you need to keep in mind the follo
 | :--------------------- | -----: | 
 | Digikey     | [Cable Tie DigiKey Link](https://www.digikey.ca/en/products/detail/3m/CT4NT18-M/2721151)|
 | Mouser | [Cable Tie Mouser Link](https://www.mouser.ca/ProductDetail/3M-Electronic-Specialty/CT4NT18-M?qs=ZWbLE8ZZ2FMuC6MNf0Q4Kw%3D%3D) |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

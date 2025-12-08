@@ -23,9 +23,3 @@ The full blog post can be found [here](https://blog.rahix.de/design-for-3d-print
 
 The printers used in the design of the devices linked in this guide were the Bambu P1S and the Prusa MK4. At the time that this guide was written, these were some of the better 3D printers on the market, capable of repeatedly printing accurate parts. 
 The standard clearance between parts used in MMC devices is 0.1 mm. This clearance allows parts to fit together easily, without binding or being too loose. For some older printers however, this may be too tight of a fit to reliably assemble well. If that is the case, increasing the clearance between parts to 0.2 or even 0.3 mm may allow the parts to assemble easier. 
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

@@ -24,9 +24,3 @@ Next, extrude the base down by 2.4 mm, leaving the mounting holes uncovered. Cha
 Once the body of the base has been created, add clearance holes for the M3 screws. Create a 7.5 mm diameter circle around each of the M3 screw holes, then extrude it down by 1.2 mm to create a counterbore. Add the unsupported hole features found [here](https://www.hydraresearch3d.com/design-rules#unsupported-holes).
 
 Finally, find the locations that you would like to put the non-slip feet, then follow the non-slip feet guide found in the commercial parts section.
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

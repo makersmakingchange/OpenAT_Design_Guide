@@ -24,9 +24,3 @@ When designing for a user accessible SD card, it is important to keep a knockout
 | :--------------------- | -----: | 
 | Knockout Size (width x height) | 15 x 5 mm |
 | Maximum Card Depth | 2 mm |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

@@ -72,9 +72,3 @@ After extruding the base, create a sketch on the top face. This sketch will cons
 Finally, at the bottom of the base create a sketch that covers the entire rail and base area (22.6 mm x 7.3 mm) and extrude it down 1.6 mm to cap off the bottom of the rail section. From here, it can be extended to the bottom of the enclosure, or the bottom can be chamfered for printability as normal.
 
 <img src="Photos/Tactile_Switch/Tactile_Switch_IMG12.png" width="300" style="margin: 0 auto" alt="An extrusion that caps the bottom of the rails">
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

@@ -31,9 +31,3 @@ The foot linked was chosen since it can be bought individually on Digikey when o
  | **Non Slip Feet can be found at these links:** |        |
 | :--------------------- | -----: | 
 | Digikey     | [Non-Slip Foot DigiKey Link](https://www.digikey.ca/en/products/detail/bumper-specialties-inc/BS34CL12X25RP/13213600) |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

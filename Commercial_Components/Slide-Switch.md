@@ -42,9 +42,3 @@ When designing a version that uses the toggle, the considerations are largely th
 | :--------------------- | -----: | 
 | Digikey     | [Slide Switch DigiKey Link](https://www.digikey.ca/en/products/detail/c-k/OS102011MA1QS1/1981431) |
 | Mouser | [Slide Switch Mouser Link](https://www.mouser.ca/ProductDetail/CK/0S102011MA1QS1?qs=CScMml99RXNA53k9Q8MdKA%3D%3D)  |
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)

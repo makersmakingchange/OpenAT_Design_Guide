@@ -27,9 +27,3 @@ Dimensions and key considerations for bump and divot are as follows:
 - **Minimum and Maximum Size:** The sizing of the bumps can be difficult, as they need to allow the tab to pass through, but still retain it once it is in place. The best size varies with the flexibility of the parts being connected together, but 0.4-1 mm is a good starting range.
 
 If using the bump and divot, it is important to note that makers will need to twist the part until they lock in place. Otherwise, makers may assume they have properly assembled the parts once they twist and meet the resistance of the edge of the tab with the divot meeting the bump. If they do not lock the bump into the divot, the parts will easily twist apart.
-
----
-
-Copyright (c) 2025 Neil Squire / Makers Making Change.
-
-This work is licensed under the [CC BY SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0)
