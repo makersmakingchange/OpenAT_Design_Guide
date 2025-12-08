@@ -8,7 +8,8 @@ This guide is a living document, and is intended to be changed and updates as be
 As open source documentation, you are welcomed and encouraged to improve upon the Design Guide. Information on how to contribute can be found [here](https://makersmakingchange.github.io/OpenAT_Design_Guide/How-To-Contribute.html) 
 
 ## Attribution
-Contributors:
+
+Content Contributors:
  - Brad Wellington
  - Jake McIvor
  - Stephan Dobri
@@ -16,17 +17,11 @@ Contributors:
 ## License
 Copyright (c) 2025 Neil Squire / Makers Making Change.
 
-This repository describes the processes used by Makers Making Change to design devices and is published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+The site content is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
-You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-W v2 for applicable conditions.
-
-Source Location: https://github.com/makersmakingchange/OpenAT_Design_Guide
-
+The underlying site generation tools—[Jekyll](https://jekyllrb.com/) and the [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme—are MIT-licensed and remain under their respective licenses. No part of their source code or assets is relicensed by this site.
 
 ---
-
 
 <!-- ABOUT MMC START -->
 ## About Makers Making Change
