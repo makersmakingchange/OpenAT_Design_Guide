@@ -7,4 +7,4 @@ url: https://makersmakingchange.github.io/Open-AT-Design-Guide
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-_includes/footer_custom.html
+#_includes/footer_custom.html
