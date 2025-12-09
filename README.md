@@ -1,4 +1,4 @@
-# Open Asssitive Technology (OpenAT) Design Resources
+# Open Assitive Technology (OpenAT) Design Resources
 
 
 <!-- ABOUT MMC START -->
