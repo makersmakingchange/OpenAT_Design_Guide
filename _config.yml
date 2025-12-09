@@ -5,7 +5,13 @@ theme: just-the-docs
 url: https://makersmakingchange.github.io/Open-AT-Design-Guide
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Neil Squire"
+    - "https://www.neilsquire.ca"
+  "Makers Making Change":
+    - "https://www.makersmakingchange.com"
+  "Makers Making Change OpenAT Documentation Template"
+    - "https://github.com/makersmakingchange/OpenAT-Template"  
+aux_links_new_tab: true 
 
 #_includes/footer_custom.html
 footer_content: 'Copyright (c) 2025 <a href="https://www.neilsquire.ca/">Neil Squire</a> / <a href="https://www.makersmakingchange.com/">Makers Making Change</a>. This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY SA 4.0 License</a> \n This website is built with <a href="https://jekyllrb.com/">Jekyll</a> and styled with the <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>. Jekyll and Just the Docs are MIT-licensed software and are not covered by the CC BY-SA license applied to this site’s content.'
