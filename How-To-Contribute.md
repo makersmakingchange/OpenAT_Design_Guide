@@ -13,14 +13,14 @@ You can contribute in two main ways:
 1. **Suggest a correction or improvement** (e.g., better dimensions, clearer instructions).
 2. **Add a new page** for a component or design element that is missing.
 
-# Suggest a correction or improvement
+## Suggest a correction or improvement
 
 If after testing a dimension or step in this guide, you find a better dimension or set of steps for a page in the guide, you can raise a GitHub issue to change the dimension in the guide.
 
 To do so, click [this link](https://github.com/makersmakingchange/OpenAT_Design_Guide/issues). From here, click on the green 'New Issue' button at the top right. Give the issue a title that explains what feature in what part need to be changed (i.e., "Changing threaded hole diameter for #4 sheet metal screw") then fill out the issue description with more information about what you want to change, and why you think it needs changing.
 
 
-# Adding a new page
+## Adding a new page
 
 If you have something that you think should be added to the design guide, you can create a pull request to add a page to the guide.
 
