@@ -26,19 +26,23 @@ This guide is for anyone who designs assistive technology intended to be built a
 
 ## How this guide is organized
 
-- **Commercial Components** – Recommended dimensions and mounting methods for common parts used in OpenAT and MMC designs (e.g., screws, switches, USB connectors, etc.).:contentReference[oaicite:3]{index=3}  
-- **Design Elements for 3D Printed Parts** – Patterns like screw posts, snap fits, shadow lines, and strain relief, with design considerations and typical min/max dimensions.:contentReference[oaicite:4]{index=4} 
-- **3D Printing Design Tips** – Links to trusted 3D printing design guides and explains how printer choice and settings affect tolerances used in this guide.:contentReference[oaicite:2]{index=2} 
+- [**Commercial Components**]({{ "/Commercial_Components/Commercial-Components.html" | relative_url }})
+ – Recommended dimensions and mounting methods for common parts used in OpenAT and MMC designs (e.g., screws, switches, USB connectors, etc.).
+- [**Design Elements for 3D Printed Parts**]({{ "/Design_Elements_For_3D_Printed_Parts/Design-Elements-for-3D-Printed-Parts.html" | relative_url }})
+ – Patterns like screw posts, snap fits, shadow lines, and strain relief, with design considerations and typical min/max dimensions.
+- [**3D Printing Design Tips**]({{ "/3D_Printing_Design_Tips/3D-Printing-Design-Tips.html" | relative_url }}) – Links to trusted 3D printing design guides and explains how printer choice and settings affect tolerances used in this guide.
+- [**How to Contribute**]({{ "/How-To-Contribute.html" | relative_url }}) – Instructions for how to suggest improvements or add content.
 
 Additional sections will be added as this resource grows.
 
-In the **Commercial Components** section, the guide covers the commonly used commercial parts in MMC designs, and how to integrate them into 3D printed components. This includes the right size holes to use for screws, the best ways to secure a switch to a component, and what size openings to use for various USB connectors. 
+In the [Commercial Components]({{ "/Commercial_Components/Commercial-Components.html" | relative_url }}) section, the guide covers the commonly used commercial parts in MMC designs, and how to integrate them into 3D printed components. This includes the right size holes to use for screws, the best ways to secure a switch to a component, and what size openings to use for various USB connectors. 
 
-The **Design Elements for 3D Printed Parts** section covers common design elements used in MMC devices, such as 3D printed threads, cotter pins, and shadow lines. This section focuses less on exact measurements and dimensions than the previous section, as the designer has control over the dimensions of all the components involved. Instead this section focuses more on the necessary design considerations and minimum/maximum sizes of the features.
+The [Design Elements for 3D Printed Parts]({{ "/Design_Elements_For_3D_Printed_Parts/Design-Elements-for-3D-Printed-Parts.html" | relative_url }})
+ section covers common design elements used in MMC devices, such as 3D printed threads, cotter pins, and shadow lines. This section focuses less on exact measurements and dimensions than the previous section, as the designer has control over the dimensions of all the components involved. Instead this section focuses more on the necessary design considerations and minimum/maximum sizes of the features.
 
-The **3D Printing Design Tips** section of the guide links to other 3D printing design guides that cover wall thicknesses, overhangs, optimizing for print speed and material usage, and filet sizes while breaking out the section on printing overhanging holes from the Hydra Research design guide for easy reference. It also gives a brief overview of the printers used in the design of the devices mentioned in the guide, and how that affected the tolerances used in the guide. Finally, it covers how these tolerances can be changed for other 3D printers to make them fit better.
+The [3D Printing Design Tips]({{ "/3D_Printing_Design_Tips/3D-Printing-Design-Tips.html" | relative_url }}) section of the guide links to other 3D printing design guides that cover wall thicknesses, overhangs, optimizing for print speed and material usage, and filet sizes while breaking out the section on printing overhanging holes from the Hydra Research design guide for easy reference. It also gives a brief overview of the printers used in the design of the devices mentioned in the guide, and how that affected the tolerances used in the guide. Finally, it covers how these tolerances can be changed for other 3D printers to make them fit better.
 
-Finally, there is a **How to Contribute** section that covers how to make changes to the guide or add new sections. This guide is a living document and intended to be changed and updated as better measurements and new design techniques are used, both by the Makers Making Change team and community.
+Finally, there is a [**How to Contribute**]({{ "/How-To-Contribute.html" | relative_url }}) section that covers how to make changes to the guide or add new sections. This guide is a living document and intended to be changed and updated as better measurements and new design techniques are used, both by the Makers Making Change team and community.
 
 
 ## About Makers Making Change
