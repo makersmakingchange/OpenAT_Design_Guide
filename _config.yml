@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://makersmakingchange.github.io/Open-AT-Design-Guide
 
-#aux_links:
+aux_links:
   "Neil Squire":
     - "https://www.neilsquire.ca"
   "Makers Making Change":
