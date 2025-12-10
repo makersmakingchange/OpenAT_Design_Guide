@@ -20,7 +20,7 @@ This is one of the most complicated parts to add to a model, with a long list of
 
 An example of the part dimensioned below is provided as an STL, a STEP, and a F3D file. Currently only the positive is provided, i.e. the part that was dimensioned, but there are plans to add a negative to allow the component to be imported into a design then added as a Boolean subtraction or addition, depending on if you are using the positive or negative.
 
-* <a href="CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl" download>STL File</a>
+* <a href="/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl" download>STL File</a>
 * <a href="CAD_Files/T_Nut/T_Nut_Mounting_Positive.step" download>STEP File</a>
 * <a href="CAD_Files/T_Nut/T_Nut_Mounting_Positive.f3d" download>F3D File</a>
 
