@@ -5,7 +5,7 @@ nav_order: 3
 parent: Commercial Components
 ---
 
-# #4 Sheet Metal Screw
+# 12 mm Tactile Switch
 
 This is the most common switch used at MMC and is found in most of our assistive switches, as well as several devices with integrated buttons.
 
